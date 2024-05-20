@@ -69,7 +69,24 @@
             a. https://tienda-nodejs.netlify.app
          9. El sitio web debe estar estructurado utilizando etiquetas semánticas HTML
             correctamente. Debe pasar la validación de https://validator.w3.org/ sin errores.
-            a.
+            a. Resultado 
+               This tool is an ongoing experiment in better HTML checking, and its behavior remains subject to change
+
+               Showing results for https://tienda-nodejs.netlify.app/
+               Checker Input
+               Show sourceoutlineimage report
+
+               Check by
+               address
+               https://tienda-nodejs.netlify.app/
+
+               Document checking completed. No errors or warnings to show.
+
+               Used the HTML parser. Externally specified character encoding was UTF-8.
+
+               Total execution time 615 milliseconds.
+
+               About this checker • Report an issue • Version: 24.5.11
          10. Utilizar iframes y/o íconos de FontAwesome y/o fuentes locales o bien de Google
              Fonts.Es optativo incluir algún elemento de Bootstrap.
              a. Se utilizan distintos iframe, como iconos y fuentes
