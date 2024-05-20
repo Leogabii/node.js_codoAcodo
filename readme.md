@@ -6,7 +6,7 @@
   - [Tabla de Contenido](#tabla-de-contenido)
   - [Descripción](#descripción)
   - [Tecnologías ocupadas](#tecnologías-ocupadas)
-  - [Animaciones usadas y Js](#animaciones-usadas-y-js)
+  - [Animaciones usadas y Js](#animaciones-transformaciones-y-transiciones-usadas-y-js)
   - [Nombre del Grupo](#nombre-del-grupo)
 
 
@@ -24,7 +24,7 @@
     2. CSS
     3. JS
    
- ## Animaciones, Transformaciones y Transiciones usadas y Js
+ ## Animaciones transformaciones y transiciones usadas y Js
  ***
     Podemos describir los siguientes puntos requeridos y complimentados:
     
@@ -94,5 +94,5 @@
  ## Nombre del Grupo
  ***
  Grupo N° 2
- Comision N° 24133
- Full Stack NodeJS*
+   Comision N° 24133
+     Full Stack NodeJS
